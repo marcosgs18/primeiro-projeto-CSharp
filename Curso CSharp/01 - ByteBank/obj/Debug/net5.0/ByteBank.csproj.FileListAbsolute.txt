@@ -1,0 +1,32 @@
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\bin\Debug\net5.0\ByteBank.exe
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\bin\Debug\net5.0\ByteBank.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.dev.json
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\bin\Debug\net5.0\ByteBank.dll
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\bin\Debug\net5.0\ref\ByteBank.dll
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\bin\Debug\net5.0\ByteBank.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\obj\Debug\net5.0\ByteBank.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\obj\Debug\net5.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\obj\Debug\net5.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\obj\Debug\net5.0\ByteBank.dll
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\obj\Debug\net5.0\ref\ByteBank.dll
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\obj\Debug\net5.0\ByteBank.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\ByteBank\obj\Debug\net5.0\ByteBank.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\bin\Debug\net5.0\ByteBank.exe
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\bin\Debug\net5.0\ByteBank.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.json
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.dev.json
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\bin\Debug\net5.0\ByteBank.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\bin\Debug\net5.0\ref\ByteBank.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\bin\Debug\net5.0\ByteBank.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\obj\Debug\net5.0\ByteBank.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\obj\Debug\net5.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\obj\Debug\net5.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\obj\Debug\net5.0\ByteBank.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\obj\Debug\net5.0\ref\ByteBank.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\obj\Debug\net5.0\ByteBank.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Curso CSharp\01 - ByteBank\obj\Debug\net5.0\ByteBank.genruntimeconfig.cache
