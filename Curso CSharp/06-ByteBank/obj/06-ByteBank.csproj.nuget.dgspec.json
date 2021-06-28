@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marcos.soares\\Documents\\Projetos\\Curso CSharp\\06-ByteBank\\06-ByteBank.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marcos.soares\\Documents\\Projetos\\Curso CSharp\\06-ByteBank\\06-ByteBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marcos.soares\\Documents\\Projetos\\Curso CSharp\\06-ByteBank\\06-ByteBank.csproj",
+        "projectName": "06-ByteBank",
+        "projectPath": "C:\\Users\\marcos.soares\\Documents\\Projetos\\Curso CSharp\\06-ByteBank\\06-ByteBank.csproj",
+        "packagesPath": "C:\\Users\\marcos.soares\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marcos.soares\\Documents\\Projetos\\Curso CSharp\\06-ByteBank\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marcos.soares\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
